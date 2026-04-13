@@ -46,8 +46,8 @@ tabla.mort <- function(df, radix = 1) {
 ######### Leer datos para México
 #################################################
 
-Nx<- read_excel("OneDrive - Syddansk Universitet/Clase Prueba/0_Pob_Mitad_1950_2070.xlsx")
-Dx <- read_excel("OneDrive - Syddansk Universitet/Clase Prueba/1_Defunciones_1950_2070.xlsx")
+Nx<- read_excel("data/0_Pob_Mitad_1950_2070.xlsx")
+Dx <- read_excel("data/1_Defunciones_1950_2070.xlsx")
 
 # Comprobamos que se haya leido bien
 # head(Nx)
