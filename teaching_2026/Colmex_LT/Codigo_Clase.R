@@ -58,7 +58,7 @@ new_df <- Nx %>%
   left_join(Dx, by = c("AÑO", "ENTIDAD", "CVE_GEO", "EDAD", "SEXO")) %>%
   mutate(mx = if_else(POBLACION > 0, DEFUNCIONES / POBLACION, 0)) %>%
   select(AÑO, ENTIDAD, SEXO, EDAD,  mx) %>%
-  arrange(AÑO, ENTIDAD, SEXO, EDAD) %>% 
+  arrange(AÑO, ENTIDAD, SEXO, EDAD) 
 
 # Creamos las tablas de vida para cada año, entidad y sexo
 lt <- new_df %>%
