@@ -4,3 +4,4 @@
 .Ruserdatqa
 *.pdf
 **/data/
+.DS_Store
