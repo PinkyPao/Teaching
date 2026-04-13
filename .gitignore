@@ -3,4 +3,9 @@
 .RData
 .Ruserdatqa
 *.pdf
+<<<<<<< HEAD
 .DS_Store
+=======
+**/data/
+.DS_Store
+>>>>>>> e4e9fa0290d6b0d712d2f65decb53f051c4693d5
