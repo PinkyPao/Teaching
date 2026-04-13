@@ -2,5 +2,5 @@
 .Rhistory
 .RData
 .Ruserdatqa
-*.pdf
+*.Rmd
 **/.DS_Store

@@ -1,4 +1,4 @@
 # Tabla de mortalidad. Más allá de la esperanza de vida. 
 
 En este repositorio se encuentra el código (Codigo_Clase.R) para calcular la tabla de vida, así como algunas medidas de posición y de desigualdad en la duración de la vida (lifespan inequalities).
-Además se encuentran las notas de clase clase_mas_alla_e0_1.Rmd, que es un archivo que genera un pdf de las notas de clase. Así como la carpeta que contiene los archivos descargados directamente de CONAPO (https://www.gob.mx/conapo/documentos/bases-de-datos-de-la-conciliacion-demografica-1950-a-2019-y-proyecciones-de-la-poblacion-de-mexico-2020-a-2070). Descargada en Abril 2026.
+Además se encuentran las notas de clase clase_mas_alla_e0_1.pdf, que son las notas de clase. Así como la carpeta data que contiene los archivos descargados directamente de CONAPO (https://www.gob.mx/conapo/documentos/bases-de-datos-de-la-conciliacion-demografica-1950-a-2019-y-proyecciones-de-la-poblacion-de-mexico-2020-a-2070). Descargada en Abril 2026.
