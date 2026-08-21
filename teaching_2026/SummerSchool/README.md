@@ -22,7 +22,6 @@ Repository structure
 The repository contains the materials used throughout the course, including:
 
 * Class notes – Notes and examples used during the lectures
-* Datasets – Data used in demonstrations and exercises
 
 Using the materials
 
